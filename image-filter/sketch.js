@@ -19,6 +19,11 @@ function setup() {
   displayImage();
  // blueStripe();
   blueTint(100,500);
+  
+  //adding slider here
+  createSlider(100,200);
+  //slider controls the color
+  
 }
 
 function draw() {
